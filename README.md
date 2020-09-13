@@ -1,1 +1,2 @@
 # dubbo-all-demo
+本demo包括自定义使用dubbo的spi，自定义filter，自定义threadpool，自定义loadbalance等高级用法
